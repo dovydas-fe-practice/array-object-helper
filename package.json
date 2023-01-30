@@ -1,0 +1,24 @@
+{
+  "name": "array-object-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dovydas-fe-practice/array-object-helper.git"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "javascript"
+  ],
+  "author": "Dovydas Miknys (dyvas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dovydas-fe-practice/array-object-helper/issues"
+  },
+  "homepage": "https://github.com/dovydas-fe-practice/array-object-helper#readme"
+}
