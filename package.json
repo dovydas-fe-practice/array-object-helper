@@ -1,6 +1,6 @@
 {
   "name": "array-object-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "object",
     "javascript"
   ],
+  "publishConfig": {
+    "@dyvas:registry": "https://npm.pkg.github.com"
+  },
   "author": "Dovydas Miknys (dyvas)",
   "license": "ISC",
   "bugs": {
