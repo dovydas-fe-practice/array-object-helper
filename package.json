@@ -1,5 +1,5 @@
 {
-  "name": "@dmiknys/array-object-helper",
+  "name": "@dovydas-fe-practice/array-object-helper",
   "version": "1.0.1",
   "description": "",
   "main": "lib.js",
@@ -16,7 +16,7 @@
     "javascript"
   ],
   "publishConfig": {
-    "@dmiknys:registry": "https://npm.pkg.github.com"
+    "@dovydas-fe-practice:registry": "https://npm.pkg.github.com"
   },
   "author": "Dovydas Miknys (dyvas)",
   "license": "ISC",
