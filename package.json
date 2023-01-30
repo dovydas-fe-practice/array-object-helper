@@ -16,7 +16,7 @@
     "javascript"
   ],
   "publishConfig": {
-    "@dyvas:registry": "https://npm.pkg.github.com"
+    "@dmiknys:registry": "https://npm.pkg.github.com"
   },
   "author": "Dovydas Miknys (dyvas)",
   "license": "ISC",
