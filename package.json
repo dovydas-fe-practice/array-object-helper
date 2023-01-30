@@ -1,5 +1,5 @@
 {
-  "name": "array-object-helper",
+  "name": "@dmiknys/array-object-helper",
   "version": "1.0.1",
   "description": "",
   "main": "lib.js",
