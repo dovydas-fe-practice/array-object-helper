@@ -15,9 +15,6 @@
     "object",
     "javascript"
   ],
-  "publishConfig": {
-    "@dovydas-fe-practice:registry": "https://npm.pkg.github.com"
-  },
   "author": "Dovydas Miknys (dyvas)",
   "license": "ISC",
   "bugs": {
